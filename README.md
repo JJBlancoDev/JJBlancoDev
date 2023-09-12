@@ -2,16 +2,22 @@
   <h1 align="center">Hola 🙌 mi nombre es Janer Jose Blanco Martinez 👨‍💻</h1>
   <p>Desarrollador de software, algunas de las tecnologias que me gustan son: HTML, CSS, JavaScrip, VUE, Laravel, React</p>
 
-  <a href="https://www.linkedin.com/in/janer-jose-blanco-martinez-888a9124b" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/JJBlancoDev" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-
+  <h3>Conecta conmigo 🤝</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/janer-jose-blanco-martinez-888a9124b/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://twitter.com/JJBlancoDev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+  </p>
 
   <h1>⚒️ Tecnologias con las que trabajo ⚒️</h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,postman,postgres,mysql" />
+    </a>
+  </p>
 </div>
 
 
