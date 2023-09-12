@@ -9,7 +9,7 @@
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
 
-  <br>
+
   <h1>⚒️ Tecnologias con las que trabajo ⚒️</h1>
 </div>
 
