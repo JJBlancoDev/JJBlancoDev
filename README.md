@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hola 🙌 mi nombre es Janer Jose Blanco Martinez 👨‍💻</h1>
-  <p>Desarrollador de software, algunas de las tecnologias que me gustan son: HTML, CSS, JavaScrip, VUE, Laravel, React</p>
+  <h1 align="center">Hola 🙌 mi nombre es Janer José Blanco Martínez 👨‍💻</h1>
+  <p>Desarrollador de software, algunas de las tecnologías que me gustan son: HTML, CSS, JavaScrip, VUE, Laravel, React</p>
 
   <h3>Conecta conmigo 🤝</h3>
   <p align="center">
@@ -12,7 +12,7 @@
     </a>
   </p>
 
-  <h1>⚒️ Tecnologias con las que trabajo ⚒️</h1>
+  <h1>⚒️ Tecnologías con las que trabajo ⚒️</h1>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,postman,postgres,mysql" />
