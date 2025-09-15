@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola 🙌 mi nombre es Janer José Blanco Martínez 👨‍💻</h1>
-  <p>Desarrollador de software, algunas de las tecnologías que me gustan son: HTML, CSS, JavaScrip, VUE, Laravel, React</p>
+  <p>Desarrollador de software, algunas de las tecnologías que me gustan son: HTML, CSS, JavaScrip, Angular, React</p>
 
   <h3>Conecta conmigo 🤝</h3>
   <p align="center">
